@@ -13,6 +13,11 @@ The kernel is composed of several terms:
   contribution for the white noise.
 
 from http://scikit-learn.org
+
+Reference:
+---------
+* Carl Eduard Rasmussen and Christopher K.I. Williams (2006) Gaussian Processes
+  for Machine Learning, MIT Press.
 """
 
 __author__ = "Martin De Kauwe"
